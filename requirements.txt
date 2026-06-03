@@ -19,4 +19,4 @@ einops==0.8.1
 # optional but recommended
 gunicorn==23.0.0
 
--e .
+# -e .
