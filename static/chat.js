@@ -162,7 +162,7 @@
                     <i class="fas fa-microscope"></i>
                 </div>
                 <div class="message-bubble">
-                    <p>Welcome to MediAssist. I provide clinical information and general medical guidance. How can I assist you today?</p>
+                    <p>Welcome to CarePulse MediAssist. I provide clinical information and general medical guidance. How can I assist you today?</p>
                     <span class="message-time">${welcomeTime}</span>
                 </div>
             `;
